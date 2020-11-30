@@ -1,4 +1,4 @@
-# WILDBEAST
+# CARAVAN
 > Projeto caravan criado no curso de Bootstrap na Origamid, o foco era criar um site com apenas elementos do Bootstrap, responsivo para todas as plataformas.
 
 
